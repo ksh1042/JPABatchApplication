@@ -12,3 +12,6 @@
 ![img_hibernate](https://img.shields.io/badge/hibernate&nbsp;5.6.8&nbsp;final-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![img_oracle](https://img.shields.io/badge/fedora&nbsp;34-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![img_oracle](https://img.shields.io/badge/oracle&nbsp;11g-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## 이슈
+- [law 데이터 읽기 문제](#1) - 진행 중

@@ -18,7 +18,7 @@ public class User
 
   @ManyToOne
   @JoinColumn(name = "last_modifed_user")
-  private User lastModifedUser;
+  private User lastModifiedUser;
 
   private LocalDateTime addTime;
 
@@ -75,14 +75,14 @@ public class User
     this.description = description;
   }
 
-  public User getLastModifedUser()
+  public User getLastModifiedUser()
   {
-    return lastModifedUser;
+    return lastModifiedUser;
   }
 
-  public void setLastModifedUser(User lastModifedUser)
+  public void setLastModifiedUser(User lastModifiedUser)
   {
-    this.lastModifedUser = lastModifedUser;
+    this.lastModifiedUser = lastModifiedUser;
   }
 
 
