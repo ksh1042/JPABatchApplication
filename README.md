@@ -14,4 +14,4 @@
 ![img_oracle](https://img.shields.io/badge/oracle&nbsp;11g-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 이슈
-- [law 데이터 읽기 문제](issues/1) - 진행 중
+- [law 데이터 읽기 문제](https://github.com/ksh1042/JPABatchApplication/issues/1) - 진행 중
